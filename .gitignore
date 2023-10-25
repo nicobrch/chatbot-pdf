@@ -1,0 +1,9 @@
+# IDEs
+venv
+.vscode
+.idea
+
+# Environment
+.env
+.env.local
+secrets.toml
