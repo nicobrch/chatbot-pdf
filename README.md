@@ -16,5 +16,5 @@ Crear archivo `.env` utilizando el archivo `.env.example`
 Ejecutar
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run main.py
 ```

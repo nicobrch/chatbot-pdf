@@ -1,5 +1,8 @@
 streamlit
 openai
-llama-index
-nltk
+langchain
+pymilvus
 python-dotenv
+sentence_transformers
+tiktoken
+pypdf
