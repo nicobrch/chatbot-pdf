@@ -3,6 +3,7 @@ venv
 .vscode
 .idea
 volumes
+__pycache__
 
 # Environment
 .env
