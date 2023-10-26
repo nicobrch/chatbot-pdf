@@ -7,6 +7,7 @@ PDF. Además, utiliza un sistema CSBM para mantener memoria en la conversación.
 
 1. Crear archivo `.env` utilizando el archivo `.env.example` y adjuntar la OpenAI API Key
 2. En la carpeta `assets` modificar el archivo `prompt.txt` para el uso que se quiera utilizar.
+3. Copiar tus documentos PDF en la carpeta `docs`
 
 ## Ejecución
 

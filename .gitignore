@@ -2,6 +2,7 @@
 venv
 .vscode
 .idea
+volumes
 
 # Environment
 .env
